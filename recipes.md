@@ -18,6 +18,7 @@
 - [French Dip Sandwich](/recipes/?recipe=french-dip-sandwich)
 - [French Onion Rice](/recipes/?recipe=french-onion-rice)
 - [Hawaiian Haystacks](/recipes/?recipe=hawaiian-haystacks)
+- [Instant Pot Bean Stew](/recipes/?recipe=instant-pot-bean-stew)
 - [Jamaican Jerk Chicken Tacos](/recipes/?recipe=jamaican-jerk-chicken-tacos)
 - [Lasagna](/recipes/?recipe=lasagna)
 - [Meat Loaf](/recipes/?recipe=meat-loaf)
@@ -33,6 +34,7 @@
 
 - [Baklava](/recipes/?recipe=baklava)
 - [Beignets](/recipes/?recipe=beignets)
+- [Brownies](/recipes/?recipe=brownies)
 - [Chocolate Chip Cookies](/recipes/?recipe=chocolate-chip-cookies)
 - [Chocolate M&M Cookies](/recipes/?recipe=chocolate-mm-cookies)
 - [Crème brûlée](/recipes/?recipe=creme-brulee)
