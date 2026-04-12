@@ -20,10 +20,10 @@
 
 ### Icing
 
-- **2 tbsp** butter, softened
-- **1 cup** powdered sugar
-- **1 tsp** vanilla
-- **1-2 tbsp** milk
+- **4 tbsp** butter, softened
+- **2 cup** powdered sugar
+- **2 tsp** vanilla
+- **2-4 tbsp** milk
 - **pinch** of salt
 
 ## Directions
