@@ -21,6 +21,7 @@
 - [Instant Pot Bean Stew](/recipes/?recipe=instant-pot-bean-stew)
 - [Jamaican Jerk Chicken Tacos](/recipes/?recipe=jamaican-jerk-chicken-tacos)
 - [Lasagna](/recipes/?recipe=lasagna)
+- [Lentil Stew](/recipes/?recipe=lentil-stew)
 - [Meat Loaf](/recipes/?recipe=meat-loaf)
 - [Mexican Lasagna](/recipes/?recipe=mexican-lasagna)
 - [Mexican Rice Dish](/recipes/?recipe=mexican-rice-dish)
